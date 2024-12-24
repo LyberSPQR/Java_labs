@@ -1,4 +1,6 @@
+#Directories
 .idea/
 out/
+#Files
 *.iml
 /test_for_gitignore_file.txt
